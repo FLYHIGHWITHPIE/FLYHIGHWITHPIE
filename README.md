@@ -1,6 +1,6 @@
  # About me
  
-<p>Name: I’m FLYHIGHWITHPIE
+<p>Name:FLYHIGHWITHPIE
 <p>School: Saint Andrew's junior school
 <p>Age:  9+
 
