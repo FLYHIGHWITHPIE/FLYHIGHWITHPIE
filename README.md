@@ -36,6 +36,12 @@
   
   Here is me sailing off sembawang, it is very hot, I would not reccomend you sailing there
 <img src="https://github.com/FLYHIGHWITHPIE/FLYHIGHWITHPIE/blob/main/IMG_20201127_150853.jpg" alt="Sailing" style="width:648px;height:484.5px;">
+  
+  ##LEGO Programming competitions
+  
+  FLL
+  <img src="" alt="Girl in a jacket" style="width:500px;height:600px;">
+
 
 
   
