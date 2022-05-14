@@ -28,7 +28,7 @@
      
      2nd Place!
      
-     <img src="" alt="Taekondo" style="width:500px;height:600px;">
+     <img src="https://github.com/FLYHIGHWITHPIE/FLYHIGHWITHPIE/blob/main/IMG_20180812_154446.jpg" alt="Taekondo" style="width:950px;height:456px;">
 
      
  ## Programming
