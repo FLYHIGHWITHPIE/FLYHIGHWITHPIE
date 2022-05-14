@@ -28,7 +28,7 @@
  <p> and then I started using Scratch, A coding platform.
   <p> Then I started using Ev3 and Spike, Using functions and multitasking.
  <p> I later won a NRC competition and two FLL competitions.
-  <img src="" alt="Girl in a jacket" style="width:500px;height:600px;">
+  <img src="https://github.com/FLYHIGHWITHPIE/FLYHIGHWITHPIE/blob/main/IMG_20200520_192212.jpg" alt="Programming" style="width:608px;height:456px;">
 
  
   
