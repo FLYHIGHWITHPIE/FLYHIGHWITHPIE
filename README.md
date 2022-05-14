@@ -22,7 +22,15 @@
   
   ## Books
   - The little prince
-  - Geronimo Stilon  
+  - Geronimo Stilon
+     
+     ## Taekondo
+     
+     2nd Place!
+     
+     <img src="" alt="Taekondo" style="width:500px;height:600px;">
+
+     
  ## Programming
 <p> I started off by using Kodu when I was young.
  <p> and then I started using Scratch, A coding platform.
